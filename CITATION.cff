@@ -1,0 +1,10 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+
+  Silva Jr. Leonidas.
+  Orcid: "https://orcid.org/my-orcid?orcid=0000-0002-3728-9851"
+  totle: "Statistical Functions in R"
+  version: 1.0.0
+  doi: 10.5281/zenodo.17752837
+  date-released: 2025-11-28
+  url: "https://github.com/leonidasjr/statistical-procedures-in-R"
